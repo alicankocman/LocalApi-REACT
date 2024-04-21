@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image_picture": "https://mobilabonnementpris.no/wp-content/uploads/2021/02/Ice-logo-246x171.jpg",
+      "yazi1": "Ice Mobile 10GB",
+      "yazi2": "Up to 100Mbit/s",
+      "yazi3": "299,-",
+      "yazi4": "/month"
+    },
+    {
+      "id": 2,
+      "image_picture": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/a4/43/9aa4433b-90a5-ab53-bb4f-2c119a4785bf/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/1200x600wa.png",
+      "yazi1": "Telia Mobil 15GB",
+      "yazi2": "Unlimited calls, SMS and MMS",
+      "yazi3": "953,-",
+      "yazi4": "/month"
+    },
+    {
+      "id": 3,
+      "image_picture": "https://www.thefastmode.com/media/k2/items/src/ab05940dd8312286040f699f609f30ef.jpg?t=20231214_065839",
+      "yazi1": "Telenor Next Fast",
+      "yazi2": "Up to 100Mbit/s",
+      "yazi3": "1028,-",
+      "yazi4": "/month"
+    }
+  ]
+}

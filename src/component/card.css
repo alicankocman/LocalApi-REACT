@@ -1,0 +1,147 @@
+/* container.css */
+.main {
+    height: 800px;
+ width: 1308px;
+    background-color: #F4F5FA;
+    overflow: auto; /* Eğer containerlar sığmazsa, kaydırma çubuğu göstermek için */
+    display: flex; /* Flex konteyner olarak ayarlama */
+    justify-content: space-between; /* Yatay yönde boşluk bırakma */
+    align-items: center; /* Dikey hizalama */
+    padding: 0 10px; /* Kenarlardan içeri 10 piksellik dolgu */
+    border-radius: 23px;
+}
+
+.container_one {
+    -webkit-box-shadow: -22px -16px 5px 0px rgb(255, 251, 236);
+-moz-box-shadow: -22px -16px 5px 0px rgba(255,251,236,1);
+box-shadow: -22px -16px 5px 0px #f4d45e;
+    background-color: #FFFFFF;
+    width: 285px;
+    height: 326px;
+    margin-left: 100px;
+border-radius: 14px;
+position: relative;
+right: 330px;
+top: 30px;
+}
+
+ .container_two {
+    -webkit-box-shadow: -22px -16px 5px 0px rgba(255,251,236,1);
+    -moz-box-shadow: -22px -16px 5px 0px rgba(255,251,236,1);
+    box-shadow: -22px -16px 5px 0px #F9ECFF;
+        background-color:#FFFFFF;
+        width: 285px;
+        height: 326px;
+        margin-left: 400px;
+    border-radius: 14px;
+position: relative;
+bottom:305px;
+
+}
+
+.container_three {
+    -webkit-box-shadow: -22px -16px 5px 0px rgba(255,251,236,1);
+    -moz-box-shadow: -22px -16px 5px 0px rgba(255,251,236,1);
+    box-shadow: -22px -16px 5px 0px #ECEEFF;
+        background-color: #FFFFFF;
+        width: 285px;
+        height: 326px;
+        margin-left: 400px;
+    border-radius: 14px;
+    position: relative;
+    bottom: 300px;
+} 
+
+.text{
+    width: 713px;
+    height: 158px;
+    position: absolute;
+    top: 40px;
+    left: 30%;
+    
+   
+}
+.yazi1{
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 32px;
+    color: black;
+}
+.yazi2{
+    color: black;
+    font-size: 18px;
+     font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    position: relative;
+    bottom: 10px;
+}
+.merriweather-black {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  .additional-text{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    color: #A0A3BD
+  }
+  .additional-text img{
+    width: 70px;
+height: 50px;
+position: relative;
+right: 80px;
+top: 30px;
+    
+  }
+
+  .Ice{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: black;
+  }
+  .Medium{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    color: black;
+  }
+  .poppinsb{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px;
+    color: black;
+  }
+  .Button{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    color: #171435;
+    background-color: #F4F5FA;
+    width: 185px;
+    height: 56px;
+    border-radius: 41px;
+    border: 3px solid #F0F0F6;
+  }
+  .Button2{
+    width: 214px;
+    height: 56px;
+    border-radius: 41px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+  }
